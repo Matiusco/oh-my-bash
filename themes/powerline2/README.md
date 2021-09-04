@@ -60,4 +60,4 @@ A variables can be defined to set the order of the prompt segments:
 The example values above are the current default values, but if you want to remove anything from the prompt, simply remove the "string" that represents the segment from the variable.
 
 
-![powerline2 example](https://github.com/Matiusco/oh-my-bash/master/themes/powerline2/powerline2-dark.png)
+![powerline2 example](https://github.com/Matiusco/oh-my-bash/blob/master/themes/powerline2/powerline2-dark.png)
