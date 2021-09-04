@@ -59,3 +59,4 @@ A variables can be defined to set the order of the prompt segments:
 
 The example values above are the current default values, but if you want to remove anything from the prompt, simply remove the "string" that represents the segment from the variable.
 
+![Splash](https://raw.githubusercontent.com/Matiusco/oh-my-bash/master/themes/powerline2/powerline2-dark.png" splash poerline2")
